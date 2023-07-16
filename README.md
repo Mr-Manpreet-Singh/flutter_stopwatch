@@ -9,11 +9,19 @@ A simple stopwatch app made with Flutter. The app allows you to track time, reco
 - Save lap records with custom names.
 - Search for lap records by name.
 
-TODO : ##Screenshots/ GIF
+
+## Project Visuals
+
+<p align="center">
+  <img src="https://github.com/Mr-Manpreet-Singh/flutter_stopwatch/raw/main/git_readme_visuals/record_lap.gif" alt="Record Lap" width="280" height="500" />
+  <img src="https://github.com/Mr-Manpreet-Singh/flutter_stopwatch/raw/main/git_readme_visuals/save_lap.gif" alt="Save Lap" width="280" height="500" />  
+  <img src="https://github.com/Mr-Manpreet-Singh/flutter_stopwatch/raw/main/git_readme_visuals/search_record.gif" alt="Search Record" width="280" height="500" />
+</p>
 
 
 ## Usage
 The app consists of two screens: the Timer screen and the Record screen.
+
 
 ## Timer Screen
 The Timer screen displays the current stopwatch time, buttons to start/stop the stopwatch, buttons to record laps, and a list of recorded laps.
@@ -26,8 +34,10 @@ The Timer screen displays the current stopwatch time, buttons to start/stop the 
 - Record Screen
 - The Record screen displays a list of saved lap records. You can search for specific lap records by entering a search term in the search bar at the top.
 
+
 ## License
 The project is licensed under the MIT License.
+
 
 ## Learning Experience
 During the development of this app, I gained knowledge and hands-on experience in the following areas:
